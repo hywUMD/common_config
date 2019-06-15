@@ -1,8 +1,8 @@
 # common_config
 
 ## ~/.screenrc
-#https://stackoverflow.com/questions/1543427/gnu-screen-changing-the-default-escape-command-key-to-alt-x
-escape ^Zz
+- https://stackoverflow.com/questions/1543427/gnu-screen-changing-the-default-escape-command-key-to-alt-x
+  escape ^Zz
 
 ## MacOS
 - Keybord: 
