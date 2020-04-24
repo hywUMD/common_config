@@ -1,8 +1,19 @@
-# common_config
+# config
 
 ## ~/.screenrc
 - https://stackoverflow.com/questions/1543427/gnu-screen-changing-the-default-escape-command-key-to-alt-x
   escape ^Zz
+
+## vscode
+- https://marketplace.visualstudio.com/items?itemName=tuttieee.emacs-mcx
+- // Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "cmd+y",
+        "command": "redo",
+        "when": "textInputFocus && !editorReadonly"
+      }
+]
 
 ## MacOS
 - Keybord: 
