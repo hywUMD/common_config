@@ -8,7 +8,7 @@
 - Keybord: 
   - Modify Keys: Swith ^control and option
   - Cmd+Space: Spotlight
-  - Cmd+^: Input Method
+  - Cmd+^+⌥: Input Method
 
 - Terminal:
   - Preference: Use Option as Meta Key
