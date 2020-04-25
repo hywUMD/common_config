@@ -20,6 +20,13 @@
   - Modify Keys: Swith ^control and option
   - Cmd+Space: Spotlight
   - Cmd+^+⌥: Input Method
+  - ^+⌥+Up: Mission Control
+  - ^+⌥+Down: Application Window
+  - ^+⌥+Left: Switch Workspace
+  - ^+⌥+Right: Switch Workspace
+  - Cmd+⌥+0: Zoom On/Off
+  - Cmd+⌥+-: Zoom Out
+  - Cmd+⌥++: Zoom In
 
 - Terminal:
   - Preference: Use Option as Meta Key
