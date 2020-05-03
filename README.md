@@ -36,6 +36,8 @@
 - Dual Boot: Easy BCD (not necessary because Linux grub is good enough: just do sudo update-grub)
   1. Add a new entry
   2. Advanced Settings: Changed Linux driver to Boot 
+  After installation of Linux
+  - bcdedit /set "{bootmgr}" path \EFI\ubuntu\grubx64.efi
 - Powershell
   - Download latest powershell
 - Emacs
