@@ -33,7 +33,9 @@
   - 
   
 ## Windows 10
-- Dual Boot: Easy BCD
+- Dual Boot: Easy BCD (not necessary because Linux grub is good enough: just do sudo update-grub)
+  1. Add a new entry
+  2. Advanced Settings: Changed Linux driver to Boot 
 - Powershell
   - Download latest powershell
 - Emacs
@@ -43,5 +45,5 @@
 ## Elementary OS
 - Dual Boot: 
   - sudo update-grub: fix broken ones
-  - grub-customizer
+  - Optional: grub-customizer
 -
