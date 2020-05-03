@@ -60,3 +60,6 @@
  - Deb packags
   - install gdebi from app store
   - sudo gdebi google-chrome-stable_current_amd64.deb 
+ - Emacs
+  - remove emacs (need to have a version number):
+    - sudo apt remove --autoremove emacs25 emacs25-nox
