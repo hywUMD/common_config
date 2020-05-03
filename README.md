@@ -57,9 +57,10 @@
     2. /home home partition like /dev/sda5 (starting from sda5, logical partitions)
     3. swap area like /dev/sda6. RAM size
     (/dev/sda1: dev -> device; sda1 -> s device (SCSI and also h device), a (first devie), 1-4 primary partitions
- - Deb packags
+- Deb packags:
   - install gdebi from app store
   - sudo gdebi google-chrome-stable_current_amd64.deb 
- - Emacs
+- Emacs
+  - fix crash out on startup: https://elementaryos.stackexchange.com/questions/797/how-to-get-gnu-emacs-work-on-elementary-os
   - remove emacs (need to have a version number):
     - sudo apt remove --autoremove emacs25 emacs25-nox
