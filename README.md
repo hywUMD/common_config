@@ -47,7 +47,7 @@
 ## Elementary OS
 - Dual Boot: 
   - sudo update-grub: fix broken ones
-  - Optional: grub-customizer
+  - Optional: grub-customizer (https://pkgs.org/download/grub-customizer)
 - Disks
   - 3 paritions
     1. / primary partition like /dev/sda1 (sda1-sda4 for primary paritions)
