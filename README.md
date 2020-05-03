@@ -31,3 +31,11 @@
 - Terminal:
   - Preference: Use Option as Meta Key
   - 
+  
+## Windows 10
+- Powershell
+  - Download latest powershell
+- Emacs
+  - Download emacsxxx.zip file; unzip; and copy the content to Program Files
+  - Search "Environment Variables" on Windows Search and add a new path entry C:\Program Files\emacs-26.3-x86_64\bin\
+-
