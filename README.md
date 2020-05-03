@@ -37,7 +37,7 @@
   1. Add a new entry
   2. Advanced Settings: Changed Linux driver to Boot 
   After installation of Linux
-  - bcdedit /set "{bootmgr}" path \EFI\ubuntu\grubx64.efi
+  - Not working because it is ubuntu: bcdedit /set "{bootmgr}" path \EFI\ubuntu\grubx64.efi
 - Powershell
   - Download latest powershell
 - Emacs
@@ -48,7 +48,10 @@
 - Dual Boot: 
   - sudo update-grub: fix broken ones
   - Optional: grub-customizer (add ppa)
-- Disks
+  Installing Linux after Windows
+  - Make GRUB2 default:
+    - install boot-repair and use recommend repairs
+  - Disks
   - 3 paritions
     1. / primary partition like /dev/sda1 (sda1-sda4 for primary paritions)
     2. /home home partition like /dev/sda5 (starting from sda5, logical partitions)
