@@ -46,4 +46,9 @@
 - Dual Boot: 
   - sudo update-grub: fix broken ones
   - Optional: grub-customizer
--
+- Disks
+  - 3 paritions
+    1. / primary partition like /dev/sda1 (sda1-sda4 for primary paritions)
+    2. /home home partition like /dev/sda5 (starting from sda5, logical partitions)
+    3. swap area like /dev/sda6. RAM size
+    (/dev/sda1: dev -> device; sda1 -> s device (SCSI and also h device), a (first devie), 1-4 primary partitions
