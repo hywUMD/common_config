@@ -33,6 +33,7 @@
   - 
   
 ## Windows 10
+- Activation: hyw@umd.edu; Office 365: hyw@umd.edu
 - Dual Boot: Easy BCD (not necessary because Linux grub is good enough: just do sudo update-grub)
   1. Add a new entry
   2. Advanced Settings: Changed Linux driver to Boot 
