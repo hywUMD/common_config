@@ -21,10 +21,11 @@
   - General:
     - ⌘+space: Spotlight
     - ⌘+^+⌥: Input Method
-  - ^+⌥+Up: Mission Control
-  - ^+⌥+Down: Application Window
-  - ^+⌥+Left: Switch Workspace
-  - ^+⌥+Right: Switch Workspace
+  - Mission Control/Workspaces
+    - ⌘+↑: Mission Control
+    - ⌘+↓: Application windows/current window
+    - ⌘+←: Switch to left workspace
+    - ⌘+→: Switch to right workspace
   - Zoom In/Out
     - ⌘+⌥+0: Zoom On/Off
     - ⌘+⌥+-: Zoom Out
