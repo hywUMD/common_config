@@ -25,9 +25,9 @@
   - ^+⌥+Left: Switch Workspace
   - ^+⌥+Right: Switch Workspace
   - Zoom In/Out
-    - Cmd+⌥+0: Zoom On/Off
-    - Cmd+⌥+-: Zoom Out
-    - Cmd+⌥++: Zoom In
+    - ⌘+⌥+0: Zoom On/Off
+    - ⌘+⌥+-: Zoom Out
+    - ⌘+⌥++: Zoom In
   - Screenshot
     - ⌘+^+⇧+1: Save screen as a file
     - ⌘+^+1: Copy screen to clipboard
