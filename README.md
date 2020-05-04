@@ -61,8 +61,9 @@
       3. swap area like /dev/sda6. RAM size
       (/dev/sda1: dev -> device; sda1 -> s device (SCSI and also h device), a (first devie), 1-4 primary partitions
 - Deb packags:
+  - sudo dpkg -i xxx.deb
   - install gdebi from app store
-  - sudo gdebi google-chrome-stable_current_amd64.deb 
+    - sudo gdebi google-chrome-stable_current_amd64.deb 
 - Emacs
   - fix crash out on startup: https://elementaryos.stackexchange.com/questions/797/how-to-get-gnu-emacs-work-on-elementary-os
   - in your .bash_aliases file: alias emacs='XLIB_SKIP_ARGB_VISUALS=1 emacs' and then source ~/.bashrc
