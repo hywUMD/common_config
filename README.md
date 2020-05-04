@@ -53,6 +53,7 @@
   - Make GRUB2 default:
     - install boot-repair and use recommend repairs
       - https://askubuntu.com/questions/226061/how-to-install-the-boot-repair-tool-in-an-ubuntu-live-disc
+        (Don't copy the second apt-add-repository)
   - Disks
     - 3 paritions
       1. / primary partition like /dev/sda1 (sda1-sda4 for primary paritions)
