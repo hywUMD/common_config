@@ -17,9 +17,10 @@
 
 ## MacOS
 - Keybord: 
-  - Modify Keys: Swith ^control and option
-  - Cmd+Space: Spotlight
-  - Cmd+^+⌥: Input Method
+  - Modify Keys: Swith ^control and ⌥alt/option
+  - General:
+    - ⌘+space: Spotlight
+    - ⌘+^+⌥: Input Method
   - ^+⌥+Up: Mission Control
   - ^+⌥+Down: Application Window
   - ^+⌥+Left: Switch Workspace
