@@ -47,13 +47,13 @@
   
 ## Elementary OS
 - Dual Boot: 
-  - sudo update-grub: fix broken ones
-  - Optional: grub-customizer (add ppa)
-  Installing Linux after Windows
-  - Make GRUB2 default:
+  - **boot-repair** fixes everything and can be used on live usb:
     - install **boot-repair** and use recommend repairs
       - https://askubuntu.com/questions/226061/how-to-install-the-boot-repair-tool-in-an-ubuntu-live-disc
         (Don't copy the second apt-add-repository)
+  - sudo update-grub: fix broken ones
+  - Optional: grub-customizer (add ppa) Installing Linux after Windows        
+        
   - Disks
     - 3 paritions
       1. / primary partition like /dev/sda1 (sda1-sda4 for primary paritions)
