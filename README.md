@@ -24,10 +24,15 @@
   - ^+⌥+Down: Application Window
   - ^+⌥+Left: Switch Workspace
   - ^+⌥+Right: Switch Workspace
-  - Cmd+⌥+0: Zoom On/Off
-  - Cmd+⌥+-: Zoom Out
-  - Cmd+⌥++: Zoom In
-
+  - Zoom In/Out
+    - Cmd+⌥+0: Zoom On/Off
+    - Cmd+⌥+-: Zoom Out
+    - Cmd+⌥++: Zoom In
+  - Screenshot
+    - ⌘+^+⇧+1: Save screen as a file
+    - ⌘+^+1: Copy screen to clipboard
+    - ⌘+^+⇧+3: Save area as a file
+    - ⌘+^+3: Copy area to clipboard
 - Terminal:
   - Preference: Use Option as Meta Key
   - 
