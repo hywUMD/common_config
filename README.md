@@ -64,5 +64,6 @@
   - sudo gdebi google-chrome-stable_current_amd64.deb 
 - Emacs
   - fix crash out on startup: https://elementaryos.stackexchange.com/questions/797/how-to-get-gnu-emacs-work-on-elementary-os
+  - in your .bash_aliases file: alias emacs='XLIB_SKIP_ARGB_VISUALS=1 emacs'
   - remove emacs (need to have a version number):
     - sudo apt remove --autoremove emacs25 emacs25-nox
