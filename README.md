@@ -40,7 +40,7 @@
     - ^+⌘+⇧+5: Show screenshot options
   - Window (**Bold** is the Menu Title when adding App Shortcuts)
     - ⌘+M: Minimize
-    - ^+⌘+M: **Zoom**
+    - ^+⌘+M: **Zoom**/Maximize
     - ^+⌘+F: Enter/Exit Full Screen
     - ⌘+W: Close Window
     - ⌘+Q: Close App
@@ -66,12 +66,12 @@
   - General:
     - ⌘+space: Applications Munu
     - ^+⌥+space: Input Method
-    - ^+⌘+D: Turn Dock On/Off
   - Workspaces
     - ⌘+↑: Mission Control
     - ⌘+↓: Application windows/current window
     - ⌘+←: Switch to left workspace
     - ⌘+→: Switch to right workspace
+    - ⌘+⌥+→: 
     - ⌘+D: Show Desktop
   - Zoom In/Out
     - ⌘+⌥+-: Zoom Out
@@ -85,11 +85,15 @@
     - ⌘+⌥+3: Copy area to clipboard
   - Window
     - ⌘+M: Minimize
-    - ⌘+⌥+M: Maximize/Full Screen
+    - ⌘+⌥+M: Toggle Maximized (Toggle means On/Off)
     - ⌘+⇧+M: Unmaximize
+    - ⌘+⌥+F: Enter/Exit Full Screen
+    - ⌘+W: Close Window
+    - ⌘+Q: Close App
+    - ^+⌘+←: Move Window to Left Side of Screen
+    - ^+⌘+→: Move Window to Right Side of Screen
   - System
     - ⌘+L: Lock Screen
-    - 
 
 ## Windows 10
 - Activation: hyw@umd.edu; Office 365: hyw@umd.edu
