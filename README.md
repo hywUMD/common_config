@@ -20,7 +20,7 @@
   - Modify Keys: Swith ^control and ⌥alt/option
   - General:
     - ⌘+space: Spotlight
-    - ⌘+^+⌥: Input Method
+    - ^+⌥+space: Input Method
   - Mission Control/Workspaces
     - ⌘+↑: Mission Control
     - ⌘+↓: Application windows/current window
