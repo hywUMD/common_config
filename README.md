@@ -16,7 +16,7 @@
 ]
 
 ## MacOS
-- Keybord: 
+- Keybord (Shortcuts can also be found in application menus): 
   - Modify Keys: Swith ^control and ⌥alt/option
   - General:
     - ⌘+space: Spotlight
@@ -41,9 +41,11 @@
   - Window
     - ⌘+M: Minimize
     - ^+⌘+M: Maximize/Full Screen (Origin is ⌘+^+F; title is "Full Screen")
+    - ⌥+⌘+←: Tile Window to Left of Screen (Index finger on ⌘, middle finger null, ring finger on ⌥)
+    - ⌥+⌘+→: Tile Window to Left of Screen (Index finger on ⌘, middle finger null, ring finger on ⌥)
   - System
     - ⌘+L: Lock Screen (Origin is ⌘+^+Q; Changing by adding "App Shortcuts" titled "Lock Screen")
-    - 
+   
     
 - Terminal:
   - Preference: Use Option as Meta Key
