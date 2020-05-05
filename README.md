@@ -42,13 +42,43 @@
     - ⌘+M: Minimize
     - ^+⌘+M: Maximize/Full Screen (Origin is ⌘+^+F; title is "Full Screen")
   - System
-    - ⌘+L: Logout (Origin is ⌘+^+Q; Changing by adding "App Shortcuts" titled "Lock Screen")
+    - ⌘+L: Lock Screen (Origin is ⌘+^+Q; Changing by adding "App Shortcuts" titled "Lock Screen")
     - 
     
 - Terminal:
   - Preference: Use Option as Meta Key
   - 
-  
+
+## Elementary OS
+- Keybord (Mostly same with Mac OS, except ^+⌘ is now ⌘+⌥): 
+  - General:
+    - ⌘+space: Applications Munu
+    - ^+⌥+space: Input Method
+    - ^+⌘+D: Turn Dock On/Off
+  - Workspaces
+    - ⌘+↑: Mission Control
+    - ⌘+↓: Application windows/current window
+    - ⌘+←: Switch to left workspace
+    - ⌘+→: Switch to right workspace
+    - ⌘+D: Show Desktop
+  - Zoom In/Out
+    - ⌘+⌥+-: Zoom Out
+    - ⌘+⌥++: Zoom In
+  - Screenshot
+    - ⌘+⌥+⇧+1: Save screen as a file
+    - ⌘+⌥+1: Copy screen to clipboard
+    - ⌘+⌥+⇧+2: Save window as a file
+    - ⌘+⌥+2: Copy window to clipboard
+    - ⌘+⌥+⇧+3: Save area as a file
+    - ⌘+⌥+3: Copy area to clipboard
+  - Window
+    - ⌘+M: Minimize
+    - ⌘+⌥+M: Maximize/Full Screen
+    - ⌘+⇧+M: Unmaximize
+  - System
+    - ⌘+L: Lock Screen
+    - 
+
 ## Windows 10
 - Activation: hyw@umd.edu; Office 365: hyw@umd.edu
 - Dual Boot: Easy BCD (not necessary because Linux grub is good enough: just do sudo update-grub)
