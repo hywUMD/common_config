@@ -40,7 +40,7 @@
     - ^+⌘+⇧+5: Show screenshot options
   - Window (**Bold** is the Menu Title when adding App Shortcuts)
     - ⌘+M: Minimize
-    - ^+⌘+M: **Zoom** (Origin is ⌘+^+F; title is "Zoom")
+    - ^+⌘+M: **Zoom**
     - ^+⌘+F: Enter/Exit Full Screen
     - ⌥+⌘+←: **Move Window to Left Side of Screen** (Index finger on ⌘, middle finger null, ring finger on ⌥)
     - ⌥+⌘+→: **Move Window to Right Side of Screen** (Index finger on ⌘, middle finger null, ring finger on ⌥)    
