@@ -38,14 +38,16 @@
     - ^+⌘+⇧+3: Save area as a file
     - ^+⌘+3: Copy area to clipboard
     - ^+⌘+⇧+5: Show screenshot options
-  - Window
+  - Window (**Bold** is the Menu Title when adding App Shortcuts)
     - ⌘+M: Minimize
-    - ^+⌘+M: Zoom (Origin is ⌘+^+F; title is "Zoom")
+    - ^+⌘+M: **Zoom** (Origin is ⌘+^+F; title is "Zoom")
     - ^+⌘+F: Enter/Exit Full Screen
-    - ⌥+⌘+←: Tile Window to Left of Screen (Index finger on ⌘, middle finger null, ring finger on ⌥)
-    - ⌥+⌘+→: Tile Window to Left of Screen (Index finger on ⌘, middle finger null, ring finger on ⌥)
+    - ⌥+⌘+←: **Move Window to Left Side of Screen** (Index finger on ⌘, middle finger null, ring finger on ⌥)
+    - ⌥+⌘+→: **Move Window to Right Side of Screen** (Index finger on ⌘, middle finger null, ring finger on ⌥)    
+    - ⌥+⌘+⇧+←: **Tile Window to Left of Screen** (Index finger on ⌘, middle finger null, ring finger on ⌥)
+    - ⌥+⌘+⇧+→: **Tile Window to Right of Screen** (Index finger on ⌘, middle finger null, ring finger on ⌥)
   - System
-    - ⌘+L: Lock Screen (Origin is ⌘+^+Q; Changing by adding "App Shortcuts" titled "Lock Screen")
+    - ⌘+L: **Lock Screen** (Origin is ⌘+^+Q; Changing by adding "App Shortcuts" titled "Lock Screen")
    
     
 - Terminal:
