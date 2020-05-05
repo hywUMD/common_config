@@ -36,7 +36,11 @@
     - ⌘+^+⇧+3: Save area as a file
     - ⌘+^+3: Copy area to clipboard
   - Window
-    - ⌘+M: Minimize
+    - ⌘+M: Minimize 
+  - System
+    - ⌘+L: Logout (Origin is ⌘+^+Q; Changing by adding "App Shortcuts" titled "Lock Screen")
+    - 
+    
 - Terminal:
   - Preference: Use Option as Meta Key
   - 
