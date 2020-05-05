@@ -21,23 +21,25 @@
   - General:
     - ⌘+space: Spotlight
     - ^+⌥+space: Input Method
+    - ^+⌘+D: Turn Dock On/Off
   - Mission Control/Workspaces
     - ⌘+↑: Mission Control
     - ⌘+↓: Application windows/current window
     - ⌘+←: Switch to left workspace
     - ⌘+→: Switch to right workspace
   - Zoom In/Out
-    - ⌘+⌥+0: Zoom On/Off
-    - ⌘+⌥+-: Zoom Out
-    - ⌘+⌥++: Zoom In
+    - ^+⌘+0: Zoom On/Off
+    - ^+⌘+-: Zoom Out
+    - ^+⌘++: Zoom In
   - Screenshot
-    - ⌘+^+⇧+1: Save screen as a file
-    - ⌘+^+1: Copy screen to clipboard
-    - ⌘+^+⇧+3: Save area as a file
-    - ⌘+^+3: Copy area to clipboard
+    - ^+⌘+⇧+1: Save screen as a file
+    - ^+⌘+1: Copy screen to clipboard
+    - ^+⌘+⇧+3: Save area as a file
+    - ^+⌘+3: Copy area to clipboard
+    - ^+⌘+⇧+5: Show screenshot options
   - Window
     - ⌘+M: Minimize
-    - ⌘+⌥+M: Maximize/Full Screen (Origin is ⌘+^+F; title is "Full Screen")
+    - ^+⌘+M: Maximize/Full Screen (Origin is ⌘+^+F; title is "Full Screen")
   - System
     - ⌘+L: Logout (Origin is ⌘+^+Q; Changing by adding "App Shortcuts" titled "Lock Screen")
     - 
