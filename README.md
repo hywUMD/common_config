@@ -42,6 +42,8 @@
     - ⌘+M: Minimize
     - ^+⌘+M: **Zoom**
     - ^+⌘+F: Enter/Exit Full Screen
+    - ⌘+W: Close Window
+    - ⌘+Q: Close App
     - ⌥+⌘+←: **Move Window to Left Side of Screen** (Index finger on ⌘, middle finger null, ring finger on ⌥)
     - ⌥+⌘+→: **Move Window to Right Side of Screen** (Index finger on ⌘, middle finger null, ring finger on ⌥)    
     - ⌥+⌘+⇧+←: **Tile Window to Left of Screen** (Index finger on ⌘, middle finger null, ring finger on ⌥)
