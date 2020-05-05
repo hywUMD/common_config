@@ -45,9 +45,14 @@
     - ⌘+W: Close Window
     - ⌘+Q: Close App
     - ⌥+⌘+←: **Move Window to Left Side of Screen** (Index finger on ⌘, middle finger null, ring finger on ⌥)
-    - ⌥+⌘+→: **Move Window to Right Side of Screen** (Index finger on ⌘, middle finger null, ring finger on ⌥)    
+      - ^+⌥+⌘+←: Google Chrome or Brave Browser because they used the default to switch tabs
+        - When adding App Shortcuts, choose the application of Google Chrome Or Brave Browser
+    - ⌥+⌘+→: **Move Window to Right Side of Screen** (Index finger on ⌘, middle finger null, ring finger on ⌥) 
+      - ^+⌥+⌘+→: Google Chrome or Brave Browser because they used the default to switch tabs
+        - When adding App Shortcuts, choose the application of Google Chrome Or Brave Browser
     - ⌥+⌘+⇧+←: **Tile Window to Left of Screen** (Index finger on ⌘, middle finger null, ring finger on ⌥)
     - ⌥+⌘+⇧+→: **Tile Window to Right of Screen** (Index finger on ⌘, middle finger null, ring finger on ⌥)
+    
   - System
     - ⌘+L: **Lock Screen** (Origin is ⌘+^+Q; Changing by adding "App Shortcuts" titled "Lock Screen")
    
