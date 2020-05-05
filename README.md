@@ -40,7 +40,8 @@
     - ^+⌘+⇧+5: Show screenshot options
   - Window
     - ⌘+M: Minimize
-    - ^+⌘+M: Maximize/Full Screen (Origin is ⌘+^+F; title is "Full Screen")
+    - ^+⌘+M: Zoom (Origin is ⌘+^+F; title is "Zoom")
+    - ^+⌘+F: Enter/Exit Full Screen
     - ⌥+⌘+←: Tile Window to Left of Screen (Index finger on ⌘, middle finger null, ring finger on ⌥)
     - ⌥+⌘+→: Tile Window to Left of Screen (Index finger on ⌘, middle finger null, ring finger on ⌥)
   - System
