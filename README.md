@@ -35,6 +35,8 @@
     - ⌘+^+1: Copy screen to clipboard
     - ⌘+^+⇧+3: Save area as a file
     - ⌘+^+3: Copy area to clipboard
+  - Window
+    - ⌘+M: Minimize
 - Terminal:
   - Preference: Use Option as Meta Key
   - 
