@@ -59,7 +59,6 @@
     
 - Terminal:
   - Preference: Use Option as Meta Key
-  - 
 
 ## Elementary OS
 - Keybord (Mostly same with Mac OS, except ^+⌘ is now ⌘+⌥): 
