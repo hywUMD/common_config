@@ -83,11 +83,10 @@
     - ⌘+⌥+2: Copy window to clipboard
     - ⌘+⌥+⇧+3: Save area as a file
     - ⌘+⌥+3: Copy area to clipboard
-  - Window
+  - Windows
     - ⌘+M: Minimize
     - ⌘+⌥+M: Toggle Maximized (Toggle means On/Off)
-    - ⌘+⇧+M: Unmaximize
-    - ⌘+⌥+F: Enter/Exit Full Screen
+    - ⌘+⌥+F: Toggle Fullscreen
     - ⌘+W: Close Window
     - ⌘+Q: Close App
     - ^+⌘+←: Move Window to Left Side of Screen
