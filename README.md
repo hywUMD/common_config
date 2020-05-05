@@ -27,6 +27,7 @@
     - ⌘+↓: Application windows/current window
     - ⌘+←: Switch to left workspace
     - ⌘+→: Switch to right workspace
+    - ⌘+D: Show Desktop
   - Zoom In/Out
     - ^+⌘+0: Zoom On/Off
     - ^+⌘+-: Zoom Out
