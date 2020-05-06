@@ -111,11 +111,12 @@
   - Windows
     - ⊞+↑: Maximize
     - ⊞+↓: Minimize
+    - ⊞+←: Move Window to Left Side of Screen (Contrary to MacOS)
+    - ⊞+→: Move Window to Right Side of Screen (Contrary to MacOS)
     - ⊞+M: Minimize windows
     - ⊞+⇧+M: Restore minimized windows
     - Alt+F4: Close Window
-    - ⊞+←: Move Window to Left Side of Screen (Contrary to MacOS)
-    - ⊞+→: Move Window to Right Side of Screen (Contrary to MacOS)
+
   - System
     - ⊞+L: Lock Screen
 
