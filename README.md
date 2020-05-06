@@ -92,6 +92,32 @@
     - ^+⌘+→: Move Window to Right Side of Screen
   - System
     - ⌘+L: Lock Screen
+    
+## Windows 10
+- Keyboard
+  - General:
+    - ⊞+space: Input Method
+  - Workspaces
+    - ⊞+↹: All workspaces
+    - ^+⊞+←: Switch to left workspace
+    - ^+⊞+→: Switch to right workspace
+    - ^+⊞+D: Create a new workspace (Contrary to MacOS)
+    - ^+⊞+F4: Close the current workspace (Contrary to MacOS)
+  - Zoom In/Out
+    - ⊞+-: Zoom Out
+    - ⊞++: Zoom In
+  - Screenshot
+    - ⊞+⇧+S: screenshot tool
+  - Windows
+    - ⊞+↑: Maximize
+    - ⊞+↓: Minimize
+    - ⊞+M: Minimize windows
+    - ⊞+⇧+M: Restore minimized windows
+    - Alt+F4: Close Window
+    - ⊞+←: Move Window to Left Side of Screen (Contrary to MacOS)
+    - ⊞+→: Move Window to Right Side of Screen (Contrary to MacOS)
+  - System
+    - ⊞+L: Lock Screen
 
 ## Windows 10
 - Activation: hyw@umd.edu; Office 365: hyw@umd.edu
