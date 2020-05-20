@@ -7,6 +7,7 @@
 ## vscode
 - https://marketplace.visualstudio.com/items?itemName=tuttieee.emacs-mcx
 - // Place your key bindings in this file to override the defaults
+Code->Preference->Keyboard Shortcuts->First Icon on the top right corner.
 [
     {
         "key": "cmd+y",
