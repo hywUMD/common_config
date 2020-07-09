@@ -8,13 +8,93 @@
 - https://marketplace.visualstudio.com/items?itemName=tuttieee.emacs-mcx
 - // Place your key bindings in this file to override the defaults
 Code->Preference->Keyboard Shortcuts->First Icon on the top right corner.
+// Place your key bindings in this file to override the defaults
 [
     {
         "key": "cmd+y",
         "command": "redo",
         "when": "textInputFocus && !editorReadonly"
-      }
+      },
+      {
+        "key": "shift+alt+5",
+        "command": "editor.action.startFindReplaceAction"
+      },
+      {
+        "key": "shift+alt+5",
+        "command": "-editor.action.startFindReplaceAction",
+        "when": "editorFocus && !config.emacs-mcx.useMetaPrefixMacCmd"
+      },
+      {
+        "key": "shift+cmd+5",
+        "command": "editor.action.startFindReplaceAction"
+      },
+      {
+        "key": "shift+cmd+5",
+        "command": "-editor.action.startFindReplaceAction",
+        "when": "config.emacs-mcx.useMetaPrefixMacCmd && editorFocus"
+      },
+      {
+        "key": "escape shift+5",
+        "command": "editor.action.startFindReplaceAction"
+      },
+      {
+        "key": "escape shift+5",
+        "command": "-editor.action.startFindReplaceAction",
+        "when": "config.emacs-mcx.useMetaPrefixEscape && editorFocus"
+      },
+      {
+        "key": "right",
+        "command": "-emacs-mcx.executeCommands",
+        "when": "editorFocus && findWidgetVisible"
+    },
+    {
+        "key": "left",
+        "command": "-emacs-mcx.executeCommands",
+        "when": "editorFocus && findWidgetVisible"
+    },
+    {
+        "key": "up",
+        "command": "-emacs-mcx.executeCommands",
+        "when": "editorFocus && findWidgetVisible"
+    },
+    {
+        "key": "down",
+        "command": "-emacs-mcx.executeCommands",
+        "when": "editorFocus && findWidgetVisible"
+    },
+    {
+        "key": "ctrl+f",
+        "command": "-emacs-mcx.executeCommands",
+        "when": "editorFocus && findWidgetVisible"
+    },
+    {
+        "key": "ctrl+b",
+        "command": "-emacs-mcx.executeCommands",
+        "when": "editorFocus && findWidgetVisible"
+    },
+    {
+        "key": "ctrl+p",
+        "command": "-emacs-mcx.executeCommands",
+        "when": "editorFocus && findWidgetVisible"
+    },
+    {
+        "key": "ctrl+n",
+        "command": "-emacs-mcx.executeCommands",
+        "when": "editorFocus && findWidgetVisible"
+    },
+    {
+        "key": "ctrl+a",
+        "command": "-emacs-mcx.executeCommands",
+        "when": "editorFocus && findWidgetVisible"
+    },
+    {
+        "key": "ctrl+e",
+        "command": "-emacs-mcx.executeCommands",
+        "when": "editorFocus && findWidgetVisible"
+    }
+
 ]
+
 
 ## MacOS
 - Keybord (Shortcuts can also be found in application menus): 
