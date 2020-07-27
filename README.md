@@ -146,9 +146,12 @@ Code->Preference->Keyboard Shortcuts->First Icon on the top right corner.
   - System
     - ⌘+L: **Lock Screen** (Origin is ⌘+^+Q; Changing by adding "App Shortcuts" titled "Lock Screen")
    
-    
 - Terminal:
   - Preference: Use Option as Meta Key
+
+- iTerm2
+  - ⌘+⇧+2: **Split Horizontally with Current Profile**
+  - ⌘+⇧+3: **Split Vertically with Current Profile**
 
 ## Elementary OS
 - Keybord (Mostly same with Mac OS, except ^+⌘ is now ⌘+⌥): 
