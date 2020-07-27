@@ -4,6 +4,15 @@
 - https://stackoverflow.com/questions/1543427/gnu-screen-changing-the-default-escape-command-key-to-alt-x
   escape ^Zz
 
+## ~/.tmux.conf
+http://tmuxp.git-pull.com/en/latest/about_tmux.html
+bind '#' split-window -h                                                                   
+bind '@' split-window -v
+bind ')' kill-pane
+#unbind '"'                                                                               
+#unbind %                                                                                 
+bind r source-file ~/.tmux.conf \; display-message "source-file reloaded"
+
 ## vscode
 - https://marketplace.visualstudio.com/items?itemName=tuttieee.emacs-mcx
 - // Place your key bindings in this file to override the defaults
