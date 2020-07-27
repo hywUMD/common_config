@@ -6,7 +6,7 @@
 
 ## ~/.tmux.conf
 http://tmuxp.git-pull.com/en/latest/about_tmux.html
-bind '#' split-window -h                                                                   
+bind '#' split-window -h
 bind '@' split-window -v
 bind ')' kill-pane
 #unbind '"'                                                                               
